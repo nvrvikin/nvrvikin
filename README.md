@@ -1,16 +1,14 @@
-## Hi there 👋
+My name is Vladislav Naraikin
+===========================================================================================================================================
 
-<!--
-**nvrvikin/nvrvikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior React/Typescript Developer
+---------------------------------
 
-Here are some ideas to get you started:
+I've been learning frontend technologies for some years, so here you can find some of my projects. Now I've diceded to dive into ML development and use Github more often as a convenient tool for version control and progress sharing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📍  I'm currently based in Zarinsk, Altai krai
+* 🖥️  I have a website: [NVRVIKIN.RU](https://nvrvikin.ru)
+* ✉️  My email: [randalv@yandex.ru](mailto:randalv@yandex.ru)
+* I prefer to communicate with Telegram: https://t.me/nvrvikin
+
+  
