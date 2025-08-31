@@ -1,4 +1,4 @@
-My name is Vladislav Naraikin
+Vladislav Naraikin
 ===========================================================================================================================================
 
 Junior React/Typescript Developer
